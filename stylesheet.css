@@ -1,0 +1,49 @@
+.images img{
+	display: inline;
+	width : 550px; 
+	height : 250px;
+	cursor: cell;
+	padding: 5px;
+	margin: 10px;
+
+}
+h1{
+	padding: 10px;
+	margin: 10px;
+}
+
+.blue{
+	padding-top : 5px;
+	padding-bottom : 10px;
+	color: white;
+	background-color : rgb(5, 6, 99);
+	border-color: rgb(5, 6, 99) ;
+	padding: 10px;
+	margin: 10px;
+}
+.blue:hover{
+	background-color  : rgb(27, 170, 51) ;
+	border: none;
+}
+.login-btn{
+	border-radius: 10px;
+	width : 150px;
+	height : 50px;
+	font-size : 15px;
+	margin: 10px;
+	padding: 10px;
+
+}
+.desc{
+    font-family: arial;
+	padding: 10px;
+	margin: 10px;
+	line-height: 20px;
+	letter-spacing: 1px;
+	word-spacing: 5px;
+}
+.seemore{
+	font-size : 20px;
+	color : rgb(55, 127, 223) ;
+	text-decoration : none;
+}
